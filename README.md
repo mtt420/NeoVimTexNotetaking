@@ -5,7 +5,7 @@
 
 
 ```
-sudo apt-get install python2-dev python-pip python3-dev python3-pip
+sudo apt-get install python2 python-pip python3-dev python3-pip
 ```
 ```
 sudo add-apt-repository ppa:neovim-ppa/stable
